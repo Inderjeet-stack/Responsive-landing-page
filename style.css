@@ -1,0 +1,66 @@
+
+
+html{
+
+	height: 100%;
+}
+
+.via{
+
+	margin-top:8px;
+	margin-left: 9px;  
+}
+body{
+	background: url('back_1.jpg');
+	background-size: cover;
+	background-position: center; 
+}
+
+.center{
+
+	text-align:center;
+	padding: 3.3%; 
+}
+
+.navbar-brand
+{
+
+	font-size: 22px;
+}
+.dropdown-menu{
+
+	min-width: 200px;
+	background-color: rgba(255,255,232,120);
+}
+.social-buttons{
+
+	padding: 12px;
+}
+
+.fb{
+	padding: 8px;
+font-size: 14px;
+    color: white;
+    background-color: #3b599d;
+}
+.fb:hover{
+text-decoration: none;
+	  color: white;
+    background-color:#3b599d ;
+}
+
+.tw{
+	padding: 8px;
+font-size: 14px;
+    color: white;
+    background-color: #55acee;
+}
+
+.tw:hover{
+	text-decoration: none;
+
+    color: white;
+    background-color:  #55acee;
+}
+
+
